@@ -18,7 +18,7 @@ image_editor/
 ```
 
 ## Screenshot
-<img width="1918" height="802" alt="image" src="https://github.com/user-attachments/assets/040fa5b4-8bfe-4c84-a1c8-4da61acf7fb2" />
+<img width="1918" height="802" alt="image" src="https://github.com/user-attachments/assets/b4c02398-4cdf-4b8c-9a23-0e1e3dd0729c" />
 
 
 ## Demo
