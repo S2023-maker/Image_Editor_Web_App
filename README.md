@@ -15,7 +15,6 @@ image_editor/
 │── utils.py
 │── requirements.txt
 │── README.md
-```
 
 ## Screenshot
 <img width="1918" height="802" alt="image" src="https://github.com/user-attachments/assets/b4c02398-4cdf-4b8c-9a23-0e1e3dd0729c" />
